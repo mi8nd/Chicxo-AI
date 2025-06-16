@@ -14,11 +14,6 @@
 - Interactive UI components with theme flexibility
 - Clean, modern UI with beautiful styling and hover effects
 
-## 📁 Project Structure
-
-- `index.html`: Main HTML file containing the full UI and styles
-- No external dependencies — fully self-contained
-
 ## 📸 Preview
 
 > A minimal and beautiful interface for typing prompts and viewing AI responses, optimized for both desktop and mobile.
